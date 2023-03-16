@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thefirehacker
-- 👀 I’m interested in metaverse, game engines & Artifiical Intelligence 
+- 👀 I’m interested in metaverse, game engines & Artificial Intelligence 
 - 🌱 I’m currently learning Babylonjs, React Native & Android Development
 - 💞️ I’m looking to collaborate on Open Source AI Application projects
 - 📫 How to reach me contact@aiedx.com
